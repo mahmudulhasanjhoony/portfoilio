@@ -1,0 +1,113 @@
+ .navbar {
+      margin-bottom: 0;
+      height:70px;
+      vertical-align: middle;
+      background-color: #610B5E !important;
+      z-index: 9999;
+      border: 0;
+      font-size: 12px !important;
+      line-height: 1.42857143 !important;
+      letter-spacing: 4px;
+      border-radius: 0;
+      font-family: Montserrat, sans-serif;
+      padding-right:100px;
+      padding-left:100px;
+}
+ .navbar-nav li a:hover, .navbar-nav li.active a {
+   color: #f4511e !important;
+   background-color: #fff !important;
+ }
+
+body {
+  margin-top: 40px;
+  background-color: #B2B2B2 !important;
+  font-family: Helvetica;
+}
+
+#about{
+  background-color: #CDCDCD;
+}
+
+#intro{
+   margin-top: 50px;
+  font-size: 20px;
+}
+
+
+#mypic{
+   margin-top: 50px; 
+  padding:20px;
+}
+img{
+  height:20px;
+  margin-top:20px;  
+}
+.profilepic{
+  height:150px;
+  width:150px;
+}
+
+
+.description{
+  padding-top:100px;
+  vertical-align:middle;
+}
+
+#portfolio{
+  padding: 30px;
+  background-color:white;
+}
+
+.por{
+  text-align:center;
+}
+
+hr{
+  height:5px;
+  width:100%;
+}
+
+.hrb{
+  height:5px;
+  width:100%;
+  color:black;
+  padding-top:50px;
+}
+
+#form{
+  padding:5px;
+}
+
+#media{
+  background-color: #CDCDCD;
+}
+
+
+.invite{
+  text-align:center;
+}
+
+.socialmedia{
+  text-align:center;
+}
+
+
+#contact{
+  background-color:white;
+}
+
+#footer{
+  background-color:#610B5E;
+  height:60px;
+  color:white;
+  vertical-align:middle;
+  padding:10px;
+}
+
+.back-to-top {
+    cursor: pointer;
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    display:none;
+}
